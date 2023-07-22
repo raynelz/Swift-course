@@ -8,6 +8,6 @@ This repository created for ITAM course "Hello,Swift!"
 
 # // Lesson - 2 project
 
-Assets for lesson: https://github.com/raynelz/Swift-course/blob/main/I%20am%20Rich%20Image%20Assets.zip
+Assets for lesson: [👉 press me 👈](https://github.com/raynelz/Swift-course/blob/main/I%20am%20Rich%20Image%20Assets.zip)
 
 Project after lesson will be added to this repository )
