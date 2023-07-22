@@ -1,4 +1,4 @@
-![image]([https://drive.google.com/file/d/1P_Qzeo2uj3arX26czybv0Y4q3MMlVP0K/view?usp=sharing](https://drive.google.com/file/d/1P_Qzeo2uj3arX26czybv0Y4q3MMlVP0K/view?usp=sharing))
+![image](https://static.vecteezy.com/system/resources/previews/005/238/011/non_2x/illustration-of-swift-programming-language-code-displayed-on-three-monitor-in-a-row-at-programmer-workspace-free-vector.jpg)
 # Hello, Swift!
 This repository created for ITAM course "Hello,Swift!"
 
